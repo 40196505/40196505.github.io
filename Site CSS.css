@@ -29,10 +29,15 @@ h5 {
 table {
 	border:none;
 	vertical-align:middle;
+	text-align:center;
+	alignment-adjust:central;
+	align-content:center;	
 	}
 	
 td {
 	vertical-align:middle;
+	align-content:center;
+	text-align:center;
 }
 
 h1 {
@@ -47,4 +52,22 @@ button {
 input {
 	width:200px;
 	font-size:16px
+}
+
+h2{
+	color:white;
+	font-size:14px;
+	font-weight:bold
+	
+	}
+	
+h4{
+	color:white;
+	font-size:12px;
+	font-weight:300;
+	
+	}
+image{
+	align-self:center	
+	
 }
