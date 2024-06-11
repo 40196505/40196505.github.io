@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Post a Review</title>
+</head>
+
+<body bgcolor="PowderBlue">
+
+<div id="write">
+<h3>Submit Your Own Review</h3>
+        <button onclick="window.open('Reviews.html','_parent')">Show All</button>
+        <input id="btnCamera" type="file" accept="image/*" capture="environment"/>
+<br><br><label for="review">Post review:</label>
+<textarea cols="35" rows="1">
+</textarea>
+<br><br>
+<input type="button" value="Submit" onclick="msg()" width="200">
+<br>
+<br>
+<button onclick="window.open('Reviews.html','_parent')">See All Reviews</button>
+
+</div>
+<script>
+function msg() {
+  alert("Response Submitted");
+}
+</script>
+
+</body>
+</html>
