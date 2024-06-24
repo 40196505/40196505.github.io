@@ -6,10 +6,11 @@
     padding: 0;
 }
 .rate {
-  height: 46px;
-  padding: 0 10px;
-  display: flex;
-  justify-content: center;
+    height: 46px;
+    padding: 0 10px;
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto !important;
 }
 .btns {
   text-align: center;
