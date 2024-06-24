@@ -67,7 +67,7 @@ input::file-selector-button {
   width: 100%;
   margin: 10px;
 }
-tr {
+.home tr {
     display: flex;
     flex-direction: row;
 }
