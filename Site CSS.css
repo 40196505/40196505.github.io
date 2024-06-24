@@ -18,7 +18,7 @@ p {
 h3 { 
 color:#494949;
 font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size:20px;
+font-size:30px;
 }
 
 h5 {
@@ -50,7 +50,7 @@ h1 {
 	
 	button {
 		width: 200px;
-		font-size: 16px;
+		font-size: 20px;
 		background: #000;
 		color: #fff;
 		height: 50px;
@@ -65,7 +65,7 @@ h1 {
 
 h2{
 	color:white;
-	font-size:14px;
+	font-size:18px;
 	font-weight:bold
 	
 	}
