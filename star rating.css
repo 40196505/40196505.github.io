@@ -122,4 +122,17 @@ input::file-selector-button {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+@media screen and (max-width:767px){
+.overlay {
+    
+    height: 100%;
+    width: 100%;
+  
+}
+    .image {
 
+    width: 100%;
+    height: 100%;
+}
+    
+}
