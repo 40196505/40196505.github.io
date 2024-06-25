@@ -95,7 +95,7 @@ input::file-selector-button {
     background-color: #008CBA;
 }
 
-.col:hover .overlay {
+.col-lg-4:hover .overlay {
   opacity: 1;
 }
 
