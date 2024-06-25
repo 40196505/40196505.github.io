@@ -79,7 +79,7 @@ input::file-selector-button {
   height: 350px;
 }
 
-.col-6 {
+.col {
     position: relative;
 }
 .overlay {
